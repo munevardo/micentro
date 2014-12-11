@@ -1,0 +1,71 @@
+
+
+
+body{
+font-family:'Open Sans', sans-serif !important;
+}
+
+
+
+
+.promocion{
+border-bottom: solid #2681BD;
+border-radius: 2% 2%  0 0;
+margin-bottom: 1%;
+box-shadow: 1px 5px 5px #888888;
+width: 90%;
+display: inline-block;
+margin:0 auto;
+
+}
+
+
+h3{
+margin:0;
+}
+#logo-small{
+position: absolute;
+margin-left:50%;
+}
+
+#container{
+ text-align: center;
+}
+
+.texto
+{
+text-align: center;
+display: inline-block;
+vertical-align: center;
+}
+
+.imgpromo
+{
+margin-top: 10px;
+width:100%;
+
+}
+footer a{
+text-align:center;
+margin-left: 40%;
+}
+
+h3{ 
+margin-top:-70px;
+background:#fff;
+position:absolute;
+left: 40%;
+font-family:19px;
+
+
+}
+
+ article.promocion{
+ position:static;
+ margin-bottom:15px;
+ }
+
+.img2
+{
+width:100%;
+}
